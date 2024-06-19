@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working in **a MNC**
+ 🔭 I’m currently working in **an MNC**
  
  🌱 I’m currently learning **NextJS**
 
